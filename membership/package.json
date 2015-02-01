@@ -1,5 +1,5 @@
 {
-  "name": "node-app-ptterns",
+  "name": "node-app-ptterns-membership",
   "version": "0.0.1",
   "devDependencies": {
     "grunt": "^0.4.5"
